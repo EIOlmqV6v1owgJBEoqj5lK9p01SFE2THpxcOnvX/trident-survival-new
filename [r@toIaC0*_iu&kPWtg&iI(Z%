@@ -1,4 +1,4 @@
-local synreq = syn.request({Url = ('http://httpbin.org/get'); Method = 'GET'; })
+
 KeyStorage = {
     B0BjUiQvFpXHrMNmSwSqb7zC30cdoS = '2256aea9af34d21c3b8d3b6300f08394e4da79609d642060227c6584532d7d4adb72824fcf6e7bc771c1e8881fb3f61366cf018e074761c04cf0bb36074fa097'
 }
