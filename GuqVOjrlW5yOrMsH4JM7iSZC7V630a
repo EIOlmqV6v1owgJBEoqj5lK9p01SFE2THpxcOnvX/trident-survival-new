@@ -1,0 +1,15 @@
+KeyStorage = {
+    B0BjUiQvFpXHrMNmSwSqb7zC30cdoS = '2256aea9af34d21c3b8d3b6300f08394e4da79609d642060227c6584532d7d4adb72824fcf6e7bc771c1e8881fb3f61366cf018e074761c04cf0bb36074fa097'
+    kzcTGQodatG7QPQYaeCZL9PiITGXto = '0b1c256237e8c86095819d042cb0bfe9b7dbc75b5e9a739da3fd874b148ea7b94a9ffc0388dbd5a904f222d058843052c6d490901707f53aa0442662737fd456'
+    W13K4IIhlebp6d0Tkz3yIeJqAsPaOs = ''
+}
+DiscordStorage = {
+    B0BjUiQvFpXHrMNmSwSqb7zC30cdoS = '@Mainstreamed#0001'
+    kzcTGQodatG7QPQYaeCZL9PiITGXto = '@[OT]MrP1G#0001'
+    W13K4IIhlebp6d0Tkz3yIeJqAsPaOs = ''
+}
+UIDStorage = {
+    B0BjUiQvFpXHrMNmSwSqb7zC30cdoS = 0
+    kzcTGQodatG7QPQYaeCZL9PiITGXto = 1
+    W13K4IIhlebp6d0Tkz3yIeJqAsPaOs = ''
+}
